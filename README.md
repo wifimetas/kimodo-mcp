@@ -33,6 +33,8 @@ agent:  kimodo_generate  preset="dodge_roll" name="player_dodge"
 
 The server runs fine without a GPU or Blender — the relevant tools just report what's missing.
 
+**Don't have Kimodo installed yet?** This walkthrough covers the whole install (including the low-VRAM setup this server takes advantage of): [AI Animation Running Now Locally for FREE (6gb vram)](https://www.youtube.com/watch?v=nNmeuvew8LY) by PixelArtistry.
+
 ## Install
 
 ```bash
