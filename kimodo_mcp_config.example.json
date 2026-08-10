@@ -1,0 +1,10 @@
+{
+  "kimodo_home": "C:\\path\\to\\kimodo",
+  "repo": "C:\\path\\to\\kimodo\\kimodo",
+  "python": "C:\\path\\to\\kimodo\\venv\\Scripts\\python.exe",
+  "output_dir": "C:\\path\\to\\kimodo\\kimodo_out",
+  "default_model": "kimodo-soma-rp",
+  "offload": true,
+  "text_encoder_device": "",
+  "export_target": "unreal"
+}

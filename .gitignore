@@ -1,0 +1,15 @@
+# local machine config (copy kimodo_mcp_config.example.json instead)
+kimodo_mcp_config.json
+
+# generated outputs
+kimodo_out/
+*.npz
+*.bvh
+*.fbx
+*.glb
+
+# python
+__pycache__/
+*.pyc
+venv/
+.venv/
